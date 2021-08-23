@@ -1,0 +1,93 @@
+.title{
+  background-image: url(../img/firstview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1000px;
+  height: 400px;
+  margin: 0%;
+  padding: auto;
+  color: aliceblue;
+  text-align: center;
+  padding-top: 200px;
+  display: block;
+  font-size: 40px;
+}
+
+.body{
+  margin-top: 70px;
+  text-align: center;
+  width: 1000px;
+}
+
+.blog{
+  margin-top: 70px;
+  text-align: center;
+  width: 1000px;
+}
+
+.img{
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  width: 1000px;
+}
+
+.img__1 img{
+  width: 300px;
+}
+
+.img__2 img{
+  width: 300px;
+}
+
+.img__3 img{
+  width: 300px;
+}
+
+.contact{
+  margin-top: 70px;
+  text-align: center;
+  width: 780px;
+}
+
+form{
+  width: 780px;
+  margin-top: 70px;
+  display: flex;
+}
+
+.contact__form{
+  text-align: left;
+  margin-left: 80px;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.contact__form-textarea{
+  margin-top: 160px;
+}
+
+.contact__text{
+  margin-left: 80px;
+  text-align: left;
+  line-height: 2;
+}
+
+.button{
+  text-align: center;
+  display: flex;
+}
+
+.button__reset{
+  width: 200px;
+  height: 40px;
+  margin-left: 200px;
+}
+
+.button__submit{
+  width: 200px;
+  height: 40px;
+  margin-left: 15px;
+  background-color: rgb(12, 142, 146);
+  color: white;
+}
